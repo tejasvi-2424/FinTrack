@@ -168,15 +168,3 @@ Contributions are welcome.
 4. Push: `git push origin feature/my-change`
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-Licensed under the MIT License. See [LICENSE](./LICENSE).
-
----
-
-## 👤 Author
-
-**Naymul Hasan**
-GitHub: https://github.com/NHasan143
